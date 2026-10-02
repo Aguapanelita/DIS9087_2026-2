@@ -5,7 +5,7 @@
 
 ---
 
-Hala Profe Felipe y Santi! c: 
+Hii, Profe Felipe y Santi! c: 
 
 <br>
 
