@@ -9,12 +9,21 @@ inf a organizar:
 
 Hii! queridos profe Felipe y Santi, hope ur doing GREAT!
 
+Como costumbre... tuvimos una clase super interesante, donde tuvimos indicaciones clave para subir nuestro proyecto a github y posteriormente transformarlo en una página web.
+
+```
 La clase de hoy se dividió de la siguiente manera:
-- Avances de proyecto y retroalimentacion de ideas
-- Qué es vscode?
-- Como poder previsualizar proyecto (vscode) y cargar en la web
+
+- ¿Qué es vscode?
+- ¿Cómo podemos revisar, previsualizar y cargar en la web nuestro proyecto?
 - Archivos requeridos para el proyecto y para qué funciona cada uno
 - Significado de colores de los id de programación
 - Textos a leer a la vuelta de clase
+- Avances de proyecto y retroalimentacion de idea
+```
+
+---
+
+
 
 
