@@ -24,6 +24,9 @@ La clase de hoy se dividió de la siguiente manera:
 
 ---
 
+<h3>¿Qué es VSCODE?</h3>
 
+Este es un editor de código fuente mucho mas ligero y sencillo que un IDE (Integrated Development Environment). Un IDE es mucho más pesado y potente, además de sólo especializarse en ciertos lenguajes de programación mucho más complejos (Java, C++, C#).
 
+<h3>¿Cómo podemos revisar, previsualizar y cargar en la web nuestro proyecto?</h3>
 
