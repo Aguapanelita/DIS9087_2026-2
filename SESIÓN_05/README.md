@@ -35,8 +35,9 @@ Este es un editor de código fuente mucho mas ligero y sencillo que un IDE (Inte
 Okay, vamos por partes:
 
 - Revisar nuestro proyecto: Inicialmente debemos contar con vscode, donde al importar la carpeta con los archivos de nuestro proyecto, para ver a fondo cómo funciona nuestro código y realizar correcciones u ediciones en caso de ser necesario.
-- Previsualizar: Para este necesitamos de una extensión llamada "Live Server" en vscode, donde podremos ejecutar nuestro en html para previsualizar de maneera local antes de ser publicado oficialmente.
-- Cargar en la web nuestro proyecto: Aquí entramos a usar GitHub, luego de haber publicado la carpeta con los archivos de nuestro proyecto debejos realizar lo siguientes pasos: 
+- Previsualizar: Para este necesitamos de una extensión llamada "Live Server" en vscode, donde podremos ejecutar nuestro en html para previsualizar de man
+- era local antes de ser publicado oficialmente.
+- Cargar en la web nuestro proyecto: Aquí entramos a usar GitHub, luego de haber publicado la carpeta con los archivos de nuestro proyecto debemos realizar lo siguientes pasos: 
 
   - En la parte superior del repo de nuestro proyecto debemos dar click en "settings"
   - En la sección de "Code, planning, and automation" a la izquierda de nuestra pantalla" debemos dar click en "Pages"
@@ -47,4 +48,8 @@ Okay, vamos por partes:
 
 <h3>Archivos requeridos para el proyecto y para qué funciona cada uno</h3>
 
-Para que nuestra página web pueda funcionar correctamente debemos contar con los siguientes archivos ¡como mínimo! para nuestra web
+Para que nuestra página web pueda funcionar correctamente debemos contar con los siguientes archivos ¡como mínimo! para nuestra web:
+
+  - html
+  - js
+  - css
