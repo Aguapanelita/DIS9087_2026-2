@@ -28,5 +28,13 @@ La clase de hoy se dividió de la siguiente manera:
 
 Este es un editor de código fuente mucho mas ligero y sencillo que un IDE (Integrated Development Environment). Un IDE es mucho más pesado y potente, además de sólo especializarse en ciertos lenguajes de programación mucho más complejos (Java, C++, C#).
 
+<br>
+
 <h3>¿Cómo podemos revisar, previsualizar y cargar en la web nuestro proyecto?</h3>
+
+Okay, vamos por partes:
+
+- Revisar nuestro proyecto: Inicialmente debemos contar con vscode, donde al importar la carpeta con los archivos de nuestro proyecto, para ver a fondo cómo funciona nuestro código y realizar correcciones u ediciones en caso de ser necesario.
+- Previsualizar: Para este necesitamos de una extensión llamada "Live Server" en vscode, donde podremos ejecutar nuestro en html para previsualizar de maneera local antes de ser publicado oficialmente.
+- Carga en la web nuestro proyecto:
 
