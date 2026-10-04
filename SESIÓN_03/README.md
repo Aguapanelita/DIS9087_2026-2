@@ -82,7 +82,7 @@ También podemos encontrar otros métodos que se ajusten más a nuestras necesid
 
 ### Indicaciones del Primer Proyecto
 
-Al terminar nuestra clase de IA recibimos entonces las indicaciones para realizar nuestro primer proyecto ¡LESGOOOO!
+Al terminar nuestra clase de IA recibimos entonces las indicaciones para realizar nuestro [primer proyecto](https://github.com/disenoUDP/dis9087-2026-2/blob/main/tareas/tarea-02/README.md) ¡LESGOOOO!
 
 Lo que tenemos que hacer es modificar el repositorio "gatos" para identificar e interactuar con al menos 6 gestos, donde podemos usar de igual manera las imágenes de los gatos u otras.
 
