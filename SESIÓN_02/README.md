@@ -61,7 +61,7 @@ Algunas de estas librerías son:
 > [!IMPORTANT]
 > ### Nuestro primer proyecto
 
-Y aquí es donde empieza lo buenoo, EEE!! pues recibimos nuestro primer proyecto para el cual disponemos de dos semanas y usaremos:
+Y aquí es donde empieza lo buenoo, EEE!! pues recibimos nuestro [primer proyecto](https://github.com/disenoUDP/dis9087-2026-2/blob/main/tareas/tarea-02/README.md) para el cual disponemos de dos semanas y usaremos:
 
 | Herramienta | Función en el proyecto |
 | :--- | :--- |
