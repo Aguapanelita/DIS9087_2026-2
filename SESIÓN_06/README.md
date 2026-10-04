@@ -25,12 +25,37 @@ xau estoy muy emocionada 🥹💘
 
 <br>
 
+<h3>Slit Scan</h3>
+
+<img src="https://github.com/user-attachments/assets/c490b3f2-4ebf-4022-83e9-4c7e089852be" height="341" align="left" alt="Efecto Slit Scan">
+
+Anteriormente en nuestro proyecto habíamos usado la imagen procesada a través de una interfaz, pero no habíamos incorporado al tiempo como un factor a principal en este, ahora este será el tema central de nuestra siguiente tarea. 
+
+Slit Scan es una técnica que existe hace mucho tiempo donde se escanea algo, objeto o imagen y se empieza a mover, distorsionando el tiempo de la captura de la imagen. Este fue un efecto popular en los 2000 por la película "Odisea en el espacio" donde se ocupa en muchas escenas este efecto para realizar animaciones de túneles temporales.
+
+<br clear="left"/>
+
+<br>
+
+<h3>Dimensiones</h3>
+
+Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahora trabando con las dimensiones geométricas:
+
+- Primer dimensión: Es el punto, no tiene longitud, ancho ni profundidad. Solo representa una posición en el espacio.
+- Dos dimensiones: Una línea, tiene una 2 dimensiones porque se necesitan de dos puntos para poder conectarse.
+- Tercer dimensión: Y cuando aparecen muchos mmás puntos y lineas donde entonces podemos habitar el espacio y entender objetos tridimensionales.
+
+<align="center"/>
+
+<br clear="left"/>
 
 - 3 dimensiones (tridimensionalidad 3 ejes, punto linea, tridimensionalidad) + tiempo?
-
+- Invitado del próximo curso sketch tools
+- 
 
 ## Links relevantes
 
+- [SketchTools](https://sketchdesign.club/)
 - [Three.js](https://threejs.org/) 
 - [Tone.js](https://tonejs.github.io/)
 - [WebAudioAPI](https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API)
