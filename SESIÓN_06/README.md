@@ -45,7 +45,7 @@ Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahor
 - Dos dimensiones: Una línea, tiene una 2 dimensiones porque se necesitan de dos puntos para poder conectarse.
 - Tercer dimensión: Y cuando aparecen muchos mmás puntos y lineas donde entonces podemos habitar el espacio y entender objetos tridimensionales.
 
-<align="center"/>
+<div align="center">
 
 <br clear="left"/>
 
