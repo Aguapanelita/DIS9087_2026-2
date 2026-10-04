@@ -1,6 +1,6 @@
 <div align="center">
   <h2>SESIÓN 06 - DPPI</h2>
-  <h3>17/09/2026</h3>
+  <h3>24/09/2026</h3>
 </div>
 
 
