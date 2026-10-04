@@ -19,3 +19,7 @@ También descubrimos que disponemos de un mes premium de su web para realizar nu
 - [LFO](https://es.wikipedia.org/wiki/Low_frequency_oscillation)
 - [API](https://es.wikipedia.org/wiki/API)
 - [MIDI](https://es.wikipedia.org/wiki/MIDI)
+
+---
+
+With luv, Yuri 🌸
