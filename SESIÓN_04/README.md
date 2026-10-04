@@ -32,7 +32,7 @@ En esta parte de la clase nos tomamos el tiempo para ver lo que habían hecho nu
 
 <h3>Presentación del encargo</h3>
 
-Luego tuvimos la presentación de lo que debíamos realizar para nuestro siguiente proyecto, donde lo conectaremos el trabajo revisado esta clase. En este deberemos comprender como funciona MediaPipe y OpenCV de manera aislada, con el fin de crear una experiencia capaz de explicar y evidenciar cómo pueden entenderse los conceptos de "realidad" y tener en cuenta una mayor carga semiótica en este.
+Luego tuvimos la presentación de lo que debíamos realizar para nuestro [siguiente proyecto](https://github.com/disenoUDP/dis9087-2026-2/blob/main/tareas/tarea-03/README.md), donde lo conectaremos el trabajo revisado esta clase. En este deberemos comprender como funciona MediaPipe y OpenCV de manera aislada, con el fin de crear una experiencia capaz de explicar y evidenciar cómo pueden entenderse los conceptos de "realidad" y tener en cuenta una mayor carga semiótica en este.
 
 <br>
 
