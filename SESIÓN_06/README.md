@@ -9,18 +9,7 @@ Hiii! Querido profesor Felipe y Santi. Esta fue nuestra clase de regreso de sema
 
 viva xhile calajo 💃🕺
 
-Ahora si entrando a tema de clase, esta se dividió de la siguiente manera...
-
-<details>
-<summary>Haz clic aquí para abrir la casilla</summary>
-
-- Revisión proyecto 03
-- Creación de dispositivos
-- Descargar touch designer
-- 3js, tone.js
-- 3 dimensiones (tridimensionalidad 3 ejes, punto linea, tridimensionalidad) + tiempo?
-
-</details>
+Ahora si entremos a tema de clase
 
 ---
 
@@ -37,3 +26,11 @@ xau estoy muy emocionada 🥹💘
 <br>
 
 
+- 3 dimensiones (tridimensionalidad 3 ejes, punto linea, tridimensionalidad) + tiempo?
+
+
+## Links relevantes
+
+- [Three.js](https://threejs.org/) 
+- [Tone.js](https://tonejs.github.io/)
+- [WebAudioAPI](https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API)
