@@ -66,7 +66,7 @@ That's it! *EL TIEMPO*
 
 Para este encargo estaremos ocupando una herramienta creada por el profesor llamada ["SlitScan"](https://fefeliperoar.github.io/slit-scan/). Esta funciona siguiendo el orden que se muestra en pantalla, donde al elegir un video (que una consecución de muchas fotos que al estar tan juntas produce la ilusión de movimiento, también conocidas como fps o Frames Per Second) podremos jugar con todos los valores de la 4ta dimensión que ofrece esta web.
 
-Con esta herramienta estaremos realizando un video de 30 a 45 segundos que haga visible el paso del tiempo, donde además podemos o no agregar algún sonido que se relacione con lo mostrado en este. Finalmente este debe ir acompañado de un texto reflexivo entendiendo cómo se relaciona con la 4ta dimension, ademas podemos agregar alguna canción que se relacione con lo mostrado.
+Con esta herramienta estaremos realizando un video (con contenidos propio de nosotros) de 30 a 45 segundos que haga visible el paso del tiempo, donde además podemos o no agregar algún sonido que se relacione con lo mostrado en este. Finalmente este debe ir acompañado de un texto reflexivo entendiendo cómo se relaciona con la 4ta dimension, ademas podemos agregar alguna canción que se relacione con lo mostrado.
 
 Entonces se me ocurrió una pequeña idea muejeje... crear mi propia canción para este video.
 
@@ -84,3 +84,7 @@ Byeee c:
 - [Three.js](https://threejs.org/) 
 - [Tone.js](https://tonejs.github.io/)
 - [WebAudioAPI](https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API)
+
+---
+
+With luv Yuri🌸~
