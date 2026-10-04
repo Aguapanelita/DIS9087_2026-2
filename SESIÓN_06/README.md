@@ -15,7 +15,6 @@ Ahora si entrando a tema de clase, esta se dividió de la siguiente manera...
 <summary>Haz clic aquí para abrir la casilla</summary>
 
 - Revisión proyecto 03
-- Web by coding
 - Creación de dispositivos
 - Descargar touch designer
 - 3js, tone.js
@@ -31,6 +30,10 @@ Recordando un poco lo que habíamos realizado la semana antepasada, y el [proyec
 
 En general todos hicimos un buen trabajo por lo que el profesor y Santi estaban bastante orgullosos de nuestro trabajo como curso... y entonces acá el profe tocó un tema muy importante y comúnmente ignorado en nosotros los diseñadores y es que muchos se quedan sorprendidos de que también podamos realizar este tipo de proyectos e interfaces, donde entonces recordábamos de lo que hablábamos unas clases atrás y es sobre "El diseño es poder" donde tenemos la capacidad de cambiar la forma en que las personas interactúan entre ellas, con los dispositivos o los dispositivos con ellas, de manera que el usuario pueda reconocer nuestro trabajo y posteriormente cobrar como es debido, teniendo en cuenta no sólo el valor personal o intencionalidad, sino el valor que esto también implica en la sociedad, en las personas, en las instituciones , organizaciones, empresas y distintas disciplinas.
 
+¡Pequeño spoiler de siguientes clases! Así como ahora creamos una web y al inicio no lo podíamos creer, ¡también vamos a hacer dispositivos electronicos! y otros softwares :D y empezaremos a aprender *redoble de tambores...* ¡¡TOUCH DESIGNER!! 🤸‍♀️😍🥳🦩
+
+xau estoy muy emocionada 🥹💘
+
 <br>
 
-<h3>Web by coding</h3>
+
