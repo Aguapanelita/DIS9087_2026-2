@@ -74,11 +74,13 @@ Entonces se me ocurrió una pequeña idea muejeje... crear mi propia canción pa
 
 <h3>Invitado de la próxima sesión</h3>
 
+Para la siguiente clase tendremos a un invitado, quien nos dará una charla sobre una herramienta muy potente creada por él llamada [SketchTools](https://sketchdesign.club/) donde posteriormente tendremos un trabajo un poco más pesado.
 
+Time to experiment and LESGOOOOO!!
+Byeee c:
 
 ## Links relevantes
 
-- [SketchTools](https://sketchdesign.club/)
 - [Three.js](https://threejs.org/) 
 - [Tone.js](https://tonejs.github.io/)
 - [WebAudioAPI](https://developer.mozilla.org/es/docs/Web/API/Web_Audio_API)
