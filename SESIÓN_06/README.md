@@ -7,12 +7,13 @@
 <details>
 <summary>Haz clic aquí para abrir la casilla</summary>
 
-- El poder del diseño y lo poco que los demás conocen de esta disciplina
+- Revisión proyecto 03
 - Web by coding
 - Creación de dispositivos
 - Descargar touch designer
 - 3js, tone.js
 - 3 dimensiones (tridimensionalidad 3 ejes, punto linea, tridimensionalidad) + tiempo?
+
 
 
 </details>
