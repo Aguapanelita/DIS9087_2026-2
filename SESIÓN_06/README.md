@@ -47,9 +47,14 @@ Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahor
 
 <div align="center">
 
+*¿Entonces qué entendemos por cuarta dimensión...?*
+
+</div>
+
 <br clear="left"/>
 
-- 3 dimensiones (tridimensionalidad 3 ejes, punto linea, tridimensionalidad) + tiempo?
+That's it! EL TIEMPO
+
 - Invitado del próximo curso sketch tools
 - 
 
