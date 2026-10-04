@@ -17,9 +17,8 @@ La clase de hoy se dividió de la siguiente manera:
 - ¿Qué es vscode?
 - ¿Cómo podemos revisar, previsualizar y cargar en la web nuestro proyecto?
 - Archivos requeridos para el proyecto y para qué funciona cada uno.
-- Significado de colores de los IDE de programación
-- Textos a leer a la vuelta de clase
-- Avances de proyecto y retroalimentacion de idea
+- Significado de colores de los IDE de programación.
+- Avances de proyecto y retroalimentacion de idea.
 ```
 
 ---
@@ -50,13 +49,15 @@ Okay, vamos por partes:
 
 Para que nuestra página web pueda funcionar correctamente debemos contar con los siguientes archivos ¡como mínimo! para nuestra web:
 
-  - html
-  - js
-  - css
+  - html: Aquí se define la grilla, es decir la estructura de lo elementos de nuestra página web sin ningun tipo de diseño.
+  - js: Define las interacciones que tendrá nuestra web, el qué hace cuando el usuario interactúa con las opciones. 
+  - css: Este es el estilo de la pagina web, el cómo se ve, fuentes, colores, tamaños.
 
+<br>
 
+<h3>Avances de proyecto y retroalimentacion de idea</h3>
 
-
+En cuanto al diseño de la pagina lo tenia bastante claro, ya había hecho un prototipo en figma juntos con las interacciones a tener y diseño de esta, por lo que solo me faltaba decidir que funcionamiento iban a tener MediaPipe y OpenCV. Para este proyecto tenia demasiadas ideas diferentes y todas me gustaban, desde un detector de distancias faciales super detallado hasta un sintetizador gestual, es así que con ayuda del profe Felipe y Santiago tuve la recomendación de crear una tercer pantalla que combine el funcionamiento de OpenCV y MediaPipe.
 
 ---
 
