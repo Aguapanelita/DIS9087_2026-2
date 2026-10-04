@@ -55,8 +55,9 @@ Para que nuestra página web pueda funcionar correctamente debemos contar con lo
 
 <h3>Significado de colores de los IDE de programación</h3>
 
-- Naranja, rosa o violeta: Keywords para instrucciones que definen la estructura y el flujo lógico como ´if´, else, for, while, return, class, import).
-- 
+- Naranja, rosa o violeta: Keywords para instrucciones que definen la estructura y el flujo lógico como `if`, `else`, `for`, `while`, `return`, `class`, `import`).
+- Verde o Cian: Strings Representa texto plano a mostrar.
+- Azul o Amarillo: Funciones y Métodos Indica una acción o rutina
 
 <br>
 
