@@ -10,3 +10,12 @@ Hiii, hoy recibimos a Benjamín en clase, creador de [SketchTools](https://sketc
 También descubrimos que disponemos de un mes premium de su web para realizar nuestro siguiente encargo, el cual, si ganamos un pequeño concurso podremos cambiar esta membresía a modalidad anual
 
 ## Links relevantes
+
+- [Stripe](https://stripe.com/es-us)
+- [Ko-fi](https://ko-fi.com/)
+- [SupaBase](https://supabase.com/)
+- [Figma Make](https://www.figma.com/es-la/make/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [LFO](https://es.wikipedia.org/wiki/Low_frequency_oscillation)
+- [API](https://es.wikipedia.org/wiki/API)
+- [MIDI](https://es.wikipedia.org/wiki/MIDI)
