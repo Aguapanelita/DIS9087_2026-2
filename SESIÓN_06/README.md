@@ -41,6 +41,12 @@ Slit Scan es una técnica que existe hace mucho tiempo donde se escanea algo, ob
 
 <img width="250" height="250" alt="teseracto" src="https://github.com/user-attachments/assets/e0d9d805-1397-4bd5-9579-37fe229c9e7e" />
 
+<sub style="display: block; text-align: center; color: gray;">
+
+Teseracto
+
+</sub>
+
 Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahora trabando con las dimensiones geométricas:
 
 - Primer dimensión: Es el punto, no tiene longitud, ancho ni profundidad. Solo representa una posición en el espacio.
@@ -58,9 +64,16 @@ That's it! *EL TIEMPO*
 
 <h3>Encargo 04</h3>
 
+Para este encargo estaremos ocupando una herramienta creada por el profesor llamada ["SlitScan"](https://fefeliperoar.github.io/slit-scan/). Esta funciona siguiendo el orden que se muestra en pantalla, donde al elegir un video (que una consecución de muchas fotos que al estar tan juntas produce la ilusión de movimiento, también conocidas como fps o Frames Per Second) podremos jugar con todos los valores de la 4ta dimensión que ofrece esta web.
 
+Con esta herramienta estaremos realizando un video de 30 a 45 segundos que haga visible el paso del tiempo, donde además podemos o no agregar algún sonido que se relacione con lo mostrado en este. Finalmente este debe ir acompañado de un texto reflexivo entendiendo cómo se relaciona con la 4ta dimension, ademas podemos agregar alguna canción que se relacione con lo mostrado.
 
-- Invitado del próximo curso sketch tools
+Entonces se me ocurrió una pequeña idea muejeje... crear mi propia canción para este video.
+
+<br>
+
+<h3>Invitado de la próxima sesión</h3>
+
 
 
 ## Links relevantes
