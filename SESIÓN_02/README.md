@@ -7,7 +7,7 @@
 
 Hiii!! Profe Felipe y Santi, ¿Qué tal? c:
 
-Bueno bueno, hoy iniciamos la clase hablando sobre el encargo que nos dejaron la clase pasada con Santiago, el ayudante de nuestro profesor, donde le contamos cuáles fueron nuestras dificultades como las cosas que nos parecieron ligeras de este.
+Bueno bueno, hoy iniciamos la clase hablando sobre el [encargo](https://github.com/disenoUDP/dis9087-2026-2/tree/main/tareas/tarea-01) que nos dejaron la clase pasada con Santiago, el ayudante de nuestro profesor, donde le contamos cuáles fueron nuestras dificultades como las cosas que nos parecieron ligeras de este.
 
 Seguido de esto recordamos conceptos de la clase pasada y el cómo sensan las máquinas:
 
