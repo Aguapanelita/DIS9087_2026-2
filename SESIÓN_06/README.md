@@ -39,6 +39,12 @@ Slit Scan es una técnica que existe hace mucho tiempo donde se escanea algo, ob
 
 <h3>Dimensiones</h3>
 
+<div align="center">
+
+<img width="250" height="250" alt="teseracto" src="https://github.com/user-attachments/assets/e0d9d805-1397-4bd5-9579-37fe229c9e7e" />
+
+<div/>
+
 Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahora trabando con las dimensiones geométricas:
 
 - Primer dimensión: Es el punto, no tiene longitud, ancho ni profundidad. Solo representa una posición en el espacio.
@@ -47,14 +53,11 @@ Conocemos las 3 dimensiones de los planos como x,y,z; sin embargo estaremos ahor
 
 <div align="center">
 
-*¿Entonces qué entendemos por cuarta dimensión...?*  
-That's it! **EL TIEMPO**
+¿Entonces qué entendemos por cuarta dimensión...?  
+That's it! *EL TIEMPO*
 
-</div>
+<div/>
 
-<br clear="left"/>
-
-<br>
 
 <h3>Encargo 04</h3>
 
