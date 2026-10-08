@@ -4,4 +4,7 @@
 </div>
 
 - Presentación de encargo_04
+- ¿Qué es un MIDI?
+- Instrumento MIDI, modelado 3d midi incluso
+- Partes de un MIDI
 - 
