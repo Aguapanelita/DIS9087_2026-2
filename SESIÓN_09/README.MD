@@ -50,3 +50,4 @@ medir un sonido no es lo mismo que escucharlo
 
 Web: Oír la luz por el profe felipe 
 y posterior presentación de encargo 06
+ELEMENTO EXTRA: la manera cómo se ve esta gráfiaca cuenta
