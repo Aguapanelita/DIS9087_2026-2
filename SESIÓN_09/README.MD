@@ -49,3 +49,4 @@ Obra: 4'33'' John cage (la obra son los "silencios" de la sala
 medir un sonido no es lo mismo que escucharlo
 
 Web: Oír la luz por el profe felipe 
+y posterior presentación de encargo 06
