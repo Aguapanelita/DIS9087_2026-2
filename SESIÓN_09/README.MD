@@ -8,7 +8,7 @@
 - el olfato y el sonido son se los sentidos más profundos y potentes del cerebro
 - Los sonidos determinan la manera en que las cosas conectan y dependemos de este sin importar la mencion que tengamos (en diseño), omo una manera de conectar con el usuario u objetos
 - Anuncio de tarea 06
-- escuhamos 3 sonidos y fuimos conscientes de la coneccion cerebrar de estas "bivraciones de se sonido" las culaes cnos llevarona a lugares completamente distintos
+- Escuhamos 3 sonidos y fuimos conscientes de la coneccion cerebrar de estas "Vibraciones de sonido" las cuales nos llevarona a lugares completamente distintos
 
 fenomeno fisico no es lo mismo a experiencia perceptual (Merleau Ponty) 
 
@@ -17,7 +17,7 @@ fenomeno fisico no es lo mismo a experiencia perceptual (Merleau Ponty)
 
 ## QUE ES EL SONIDO
 
-Vibración qu ese propaga a través de un medio, donde el medio se vuelve extremanda mente relaevante
+Vibración que se propaga a través de un medio, donde el medio se vuelve extremadamente relevante
 
 fuente > vibración > medio > receptor
 
