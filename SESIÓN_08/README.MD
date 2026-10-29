@@ -9,8 +9,7 @@ La clase se dividió de la siguiente manera:
 
 - Presentación de encargo_04
 - ¿Qué es un MIDI? (hay personas que hasta lo usan para modelar en 3D WHATSSSS??)
-- Partes de un MIDI
-- Avances para ENcargo-05 y el uso de Sketch Tools
+- Avances para Encargo-05 y el uso de Sketch Tools
 
 ## Presentación del Encargo_04
 
@@ -20,9 +19,9 @@ Debido a que la anterior clase tuvimos paso, el [encargo_04](https://github.com/
 
 Al finalizar las presentaciones, hablamos un poco sobre lo que era un MIDI que basicamente funciona como un medio para que diferentes instrumentos digitales puedan interactuar entre si, sin embargo este no se limita a sintetizadores, sino que incluso algunas personas lo utilizan para realizar modelos 3D
 
-## Partes de un MIDI
+---
 
-
+Finalmente experimentamos un poco con el MIDI que trajo el Profesor Felipe en la página de SketchTool, donde a su vez estuvimos realizando avances y recibiendo retroalimentación para nuestra entrega del Encargo_05
 
 Links adicionales
 
