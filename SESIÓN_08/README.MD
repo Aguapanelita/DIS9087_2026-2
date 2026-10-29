@@ -26,3 +26,8 @@ Finalmente experimentamos un poco con el MIDI que trajo el Profesor Felipe en la
 Links adicionales
 
 - [Sobre un MIDI](https://acestudio.ai/es/blog/what-is-midi/)
+
+---
+
+With luv, Yuri 🌸
+
