@@ -3,7 +3,11 @@
   <h3>15/10/2026</h3>
 </div>
 
-- Paro estudiantil
+Hola querido profesor y Santi! :D
+
+El día de hoy era la entrega del encargo_05, pero debido a que hay paro, la entrega se extiende hasta el jueves 22 de octubre.
+
+Entonces 
 - Pregunta de apertura: ¿qué genera el sonido en ti?
 - el olfato y el sonido son se los sentidos más profundos y potentes del cerebro
 - Los sonidos determinan la manera en que las cosas conectan y dependemos de este sin importar la mencion que tengamos (en diseño), omo una manera de conectar con el usuario u objetos
