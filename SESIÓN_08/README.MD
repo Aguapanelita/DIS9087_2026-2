@@ -18,4 +18,12 @@ Debido a que la anterior clase tuvimos paso, el [encargo_04](https://github.com/
 
 ## ¿Qué es un MIDI?
 
-Al finalizar las presentaciones, hablamos un poco sobre lo que era un MIDI
+Al finalizar las presentaciones, hablamos un poco sobre lo que era un MIDI que basicamente funciona como un medio para que diferentes instrumentos digitales puedan interactuar entre si, sin embargo este no se limita a sintetizadores, sino que incluso algunas personas lo utilizan para realizar modelos 3D
+
+## Partes de un MIDI
+
+
+
+Links adicionales
+
+- [Sobre un MIDI](https://acestudio.ai/es/blog/what-is-midi/)
