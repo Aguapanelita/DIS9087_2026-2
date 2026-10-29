@@ -11,7 +11,9 @@ La clase se dividió de la siguiente manera:
 - ¿Qué es un MIDI? (hay personas que hasta lo usan para modelar en 3D WHATSSSS??)
 - Avances para Encargo-05 y el uso de Sketch Tools
 
-## Presentación del Encargo_04
+</br> 
+
+### Presentación del Encargo_04
 
 Debido a que la anterior clase tuvimos paso, el [encargo_04](https://github.com/disenoUDP/dis9087-2026-2/blob/main/tareas/tarea-04/README.md) lo presentamos el día de hoy, el cual realicé en conjunto a mi compañera Dayana Pañitrur, con quien tuve la oportunidad de (además de compartir una logía similar en cuantos a los videos que queríamos usar) tuve la dicha de aprender y crear junto a ella el audio que acompañaría a nuestra creación. :)
 
