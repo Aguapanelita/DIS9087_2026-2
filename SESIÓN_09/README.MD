@@ -40,8 +40,7 @@ Hicimos un ejercicio práctico en el que escuchamos **3 sonidos distintos**. Al 
 ---
 
 ### La Experiencia Perceptual y los Tipos de Escucha
-
-Recordando las lecturas previas, reforzamos que un $\color{cyan}{\text{fenómeno físico \neq experiencia perceptual}}$ (Merleau-Ponty). 
+A raíz de esto, reforzamos que un **fenómeno físico ≠ experiencia perceptual** (Merleau-Ponty).
 
 A raíz de esto, introdujimos el concepto de **Escucha Acusmática**: consiste en separar visualmente al emisor del sonido de su mensaje. Esto nos permite entender el audio como un **objeto sonoro independiente** y, al transformarse en un objeto, se vuelve algo que los diseñadores podemos manipular y diseñar.
 
