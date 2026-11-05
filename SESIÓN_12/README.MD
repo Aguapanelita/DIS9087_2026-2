@@ -1,4 +1,4 @@
-
+ 
 
 Tacto pasivo: (gibson) 60's
 algo toca la piel > llega una señal (sentimos presión No hay nada que decidir)
@@ -32,5 +32,12 @@ Contacto > electrodos > señal electrica > conversion a digitos > puntos x, y > 
 
 "No hay tacto a distancia: para tocar hay que ser tocado" - Merlau Ponty, 1945 denomenología de la percepción
 
+¿que es un mqtt?
+message queuing telemetry transport
+
+
+
 [TDlidar](https://tdlidar.github.io/) 
+[tangible media group](https://tangible.media.mit.edu/)
+
 
