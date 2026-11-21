@@ -3,11 +3,14 @@
   <h3>29/10/2026</h3>
 </div>
 
-- Presentación de [Proyecto_06](aguapanelita.github.io/PULSO/)
+Hola Profe Felipe y Santi, hope ur doing great!!
+
+### ¿Qué hicimos hoy?
+
+- Presentación de [Proyecto_06](https://github.com/Aguapanelita/PULSO.git)
 - Presentación del encargo 07
 
 <br>
-
 
 >[!IMPORTANT]
 >
@@ -15,7 +18,10 @@
 
 ---
 
-solo nos queda un sentido, el tacto, 
+Recordemos que las máquinas también pueden sensar, ¡como nosotros! y el ultimo sentido que nos queda es... el tacto, de esta manera el profe nos presento nuestro siguiente encargo y para esto debiamos conocer antes unos términos y herramientas que no serían útiles para este
+
+<br>
+
 MQTT
 broker- interfaz o alguien que hace una transacción, eso es emqx, el broker con el que trabajaremos 
 
