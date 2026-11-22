@@ -32,10 +32,12 @@ También tengamos que el tacto no es sólo toque, sino también tenemos otras cu
 
 <br>
 
-¿Qué es un MQTT?
+### ¿Qué es un MQTT?
 Este es un idioma o conjunto de reglas que usan los dispositivos para escribir un mensaje en el broker.
 
-¿Qué es un EMQX?
+<br>
+
+### ¿Qué es un EMQX?
 Este es un broker pero este funciona como el mensajero entre los dispositivos que conectemos a nuestra paltaforma.
 
 ---
