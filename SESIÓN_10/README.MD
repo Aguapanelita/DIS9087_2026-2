@@ -20,3 +20,7 @@ Hoy tuvimos una visita super interesante: Matías Pezoa, diseñador egresado de 
 - [Taller Lechuga](https://www.instagram.com/eltallerlechuga/?hl=en)
 - [AI FASHION WEEK](https://fashionweek.ai/)
 - [Behnaz Farahi](https://behnazfarahi.com/)
+
+---
+
+With luv Yuri~ 🌸
