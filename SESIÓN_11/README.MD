@@ -30,20 +30,21 @@ Recordemos que las máquinas también pueden sensar, ¡como nosotros! y el ultim
 
 También tengamos que el tacto no es sólo toque, sino también tenemos otras cualidades controlables del tacto como: presión, distancia, ángulo.
 
-<br>
-
 ### ¿Qué es un MQTT?
 Este es un idioma o conjunto de reglas que usan los dispositivos para escribir un mensaje en el broker.
-
-<br>
 
 ### ¿Qué es un EMQX?
 Este es un broker pero este funciona como el mensajero entre los dispositivos que conectemos a nuestra paltaforma.
 
 ---
 
-Luego conversamos de la tarea-07
-extra: giroscopio, aceleración, lidAR
+### Tarea 07
+
+El profesor nos presento uno de sus proyectos ([tacto](https://github.com/fefeliperoar/tacto)) donde usaba el broker que usaremos (EMQX) junto con el lenguaje MQTT donde la conectar un dispositivo por medio de un código qr transmitido en pantalla podríamos sensar las superficies el profesor simulaba en este, donde debíamos si bien crear una experiencia similar, resolver algún problema o experimentar por nuestra parte
+
+Extra: Si deseamos podemos combianarlo con otros "sentidos" de las máquinas, además de experimentar con el giroscopio, aceleración o lidAR.
+
+YAJUUU
 
 ---
 
@@ -52,4 +53,7 @@ extra: giroscopio, aceleración, lidAR
 - <https://mqtt.org/>
 - <https://www.allaboutcircuits.com/technical-articles/introduction-to-capacitive-touch-sensing/>
 - <https://www.emqx.com/en>
-- <https://github.com/fefeliperoar/tacto>
+
+---
+
+With luv Yuri~ 🌸
