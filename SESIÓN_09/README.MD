@@ -106,3 +106,6 @@ Hacia el cierre de la sesión, revisamos la plataforma web **"Oír la luz"** cre
 * Se debe diseñar un sistema enfocado en las dimensiones del sonido y la interacción.
 * **Elemento Extra Crítico:** La estética y la manera en cómo se ve la gráfica de este proyecto cuenta activamente para la evaluación final del encargo.
 
+---
+
+With luv Yuri~ 🌸
